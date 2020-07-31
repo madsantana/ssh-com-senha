@@ -37,7 +37,7 @@ do
 		h) DO_HELP=1 ;;
 		u) USER_SSH=$OPTARG ;;
 		p) PASS_SSH=$OPTARG ;;
-        s) SERVER_HOST=$OPTARG ;;
+                s) SERVER_HOST=$OPTARG ;;
 		v) DO_VERSION=1 ;;
 	esac
 done
